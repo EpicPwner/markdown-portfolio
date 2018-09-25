@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm _still_ learning how to user __Markdowns__ 
+_I can __Combine__ them!
+
+# ___WOW___
